@@ -24,7 +24,7 @@ summary(res.aov2)
 # p-value = 0.029 < 0.05  => Reject null hypothesis
 # => Proportions of Male and Female buyer ratios are not same. (Not all proportions are equal)
 # p-value for Region = 0.389 > 0.05 => Do not reject null hypothesis
-# => Proportions of buyer ratios in different regions are not same . (Not all proportions are equal)
+# => Proportions of buyer ratios in different regions are same . 
 
 
 

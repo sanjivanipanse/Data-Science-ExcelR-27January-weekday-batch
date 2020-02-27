@@ -1,0 +1,12 @@
+datacars <- read.csv('D:/SSP/Data Science ExcelR/Basic Statistics/Assignments/Q9_a.csv')
+View(datacars)
+install.packages('moments')
+library(moments)
+skewness(datacars)
+kurtosis(datacars)
+
+spwt <- read.csv('D:/SSP/Data Science ExcelR/Basic Statistics/Assignments/Q9_b.csv')
+View(spwt)
+library(moments)
+skewness(spwt)
+kurtosis(spwt)
